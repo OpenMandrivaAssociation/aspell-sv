@@ -21,7 +21,7 @@ Provides: spell-%{languagecode}
 BuildRequires: aspell >= 0.50
 Requires:      aspell >= 0.50
 
-# Mandrake Stuff
+# Mandriva Stuff
 Requires:      locales-%{languagecode}
 Provides:      aspell-dictionary
 
