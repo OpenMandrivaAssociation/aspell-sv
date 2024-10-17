@@ -13,7 +13,7 @@ Version:	0.51.0
 Release:	23
 Group:		System/Internationalization
 License:	LGPLv2
-Url:		http://aspell.net/
+Url:		https://aspell.net/
 Source0:	ftp://ftp.gnu.org/aspell/dict/%{languagecode}/aspell-%{languagecode}-%{src_ver}.tar.bz2
 
 BuildRequires:	aspell >= 0.50
